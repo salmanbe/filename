@@ -55,7 +55,7 @@ Limit
 ```php
 echo FileName::get($filename, ['limit' => 200]]);
 ```
-Limi the total number of characters in file name to avoid very long file name. Default recommended maximum limit is 240.
+Limit the total number of characters in file name to avoid very long file name. Default recommended maximum limit is 240.
 
 Separator
 -----
@@ -87,12 +87,12 @@ Global Configuration
 Run `php artisan vendor:publish --provider="Salmanbe\FileName\FileNameServiceProvider"` to publish configuration file.
 
 ```php
-'timestamp' => 'Y-m-d-His'
+'timestamp' => 'Y-m-d-His',
 ```
 If set to false then no timestamp will be added at the end of file name. It is possible to change the timestamp format. This value can be overridden when calling the function.
 
 ```php
-'limit' => 225
+'limit' => 225,
 ```
 If set to false then by default first 225 characters will be used. This value can be overridden when calling the function.
 ```php

@@ -1,7 +1,7 @@
 {
     "name": "salmanbe/filename",
-    "description": "Library to generate perfect file name",
-    "keywords": ["laravel", "file name generator", "perfect file name"],
+    "description": "Laravel library to generate clean & pretty file name",
+    "keywords": ["laravel", "file name generator", "pretty file name"],
     "homepage": "https://github.com/salmanbe/filename",
     "type": "library",
     "license": "MIT",
