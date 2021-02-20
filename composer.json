@@ -1,0 +1,35 @@
+{
+    "name": "salmanbe/filename",
+    "description": "Library to generate perfect file name",
+    "keywords": ["laravel", "file name generator", "perfect file name"],
+    "homepage": "https://github.com/salmanbe/filename",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Salmanbe\\FileName\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Salman Javaid",
+            "email": "salman@salman.be",
+            "homepage": "https://www.salman.be"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Salmanbe\\FileName\\FileNameServiceProvider"
+            ],
+            "aliases": {
+                "FileName": "Salmanbe\\FileName\\FileName"
+            }
+        }
+    }
+    
+}
