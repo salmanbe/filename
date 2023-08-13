@@ -1,8 +1,9 @@
 Perfect File Name
 ====
 This library generates perfect name for any file.
-
+<a href="https://packagist.org/packages/salmanbe/filename"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 [![License](https://img.shields.io/github/license/salmanbe/filename)](https://github.com/salmanbe/filename/blob/master/LICENSE)
+
 
 Laravel Installation
 -------
