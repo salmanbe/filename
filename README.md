@@ -1,7 +1,5 @@
----
 Perfect File Name
----
-
+====
 This library generates perfect name for any file.
 
 [![Total Downloads](http://poser.pugx.org/salmanbe/filename/downloads)](https://packagist.org/packages/salmanbe/filename)
