@@ -1,4 +1,4 @@
-Perfect File Name
+Pretty File Name
 ====
 This library generates pretty, clean, user friendly, unique and well formatted file name. 
 
