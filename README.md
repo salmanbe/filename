@@ -1,6 +1,6 @@
 ![image](https://github.com/salmanbe/filename/assets/10696759/4b23dea4-c6d2-483d-8b52-bf8e34b39b81)Perfect File Name
 ====
-This library generates pretty, clean ,user friendly ,unique and well formatted file name. 
+This library generates pretty, clean user friendly unique and well formatted file name. 
 
 [![Total Downloads](http://poser.pugx.org/salmanbe/filename/downloads)](https://packagist.org/packages/salmanbe/filename)
 [![License](http://poser.pugx.org/salmanbe/filename/license)](https://github.com/salmanbe/filename/blob/master/LICENSE)
