@@ -4,7 +4,7 @@ This library generates perfect name for any file.
 ====
 [![Total Downloads](http://poser.pugx.org/salmanbe/filename/downloads)](https://packagist.org/packages/salmanbe/filename)
 [![License](http://poser.pugx.org/salmanbe/filename/license)](https://github.com/salmanbe/filename/blob/master/LICENSE)
-[![PHP Version Require](http://poser.pugx.org/salmanbe/filename/require/php)](>=5.4)
+[![PHP Version Require](http://poser.pugx.org/salmanbe/filename/require/php)>=5.4]
 
 
 Laravel Installation
