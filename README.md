@@ -5,6 +5,10 @@ This library generates pretty, clean, user friendly, unique and well formatted f
 [![Total Downloads](http://poser.pugx.org/salmanbe/filename/downloads)](https://packagist.org/packages/salmanbe/filename)
 [![License](http://poser.pugx.org/salmanbe/filename/license)](https://github.com/salmanbe/filename/blob/master/LICENSE)
 
+Video Tutorial
+-------
+[![Laravel Filename](https://img.youtube.com/vi/S0qK0HYcLjw/0.jpg)](https://www.youtube.com/watch?v=S0qK0HYcLjw)
+
 Laravel Installation
 -------
 Install using composer:
