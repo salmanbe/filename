@@ -1,7 +1,7 @@
 Perfect File Name
 ====
 This library generates perfect name for any file.
-
+[![Total Downloads](https://poser.pugx.org/buonzz/laravel-4-freegeoip/downloads.svg)](https://packagist.org/packages/salmanbe/filename)
 [![License](https://img.shields.io/github/license/salmanbe/filename)](https://github.com/salmanbe/filename/blob/master/LICENSE)
 
 
