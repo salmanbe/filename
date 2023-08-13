@@ -7,7 +7,6 @@ This library generates perfect name for any file.
 
 Laravel Installation
 -------
-------------
 Install using composer:
 ```bash
 composer require salmanbe/filename
